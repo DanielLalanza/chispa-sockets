@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/010-LA-CHISPA-ADECUADA.iml" filepath="$PROJECT_DIR$/.idea/010-LA-CHISPA-ADECUADA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente-Alquimista/Cliente-Alquimista.iml" filepath="$PROJECT_DIR$/Cliente-Alquimista/Cliente-Alquimista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente-CaballeroDelPorton/Cliente-CaballeroDelPorton.iml" filepath="$PROJECT_DIR$/Cliente-CaballeroDelPorton/Cliente-CaballeroDelPorton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente-DamaDelLazo/Cliente-DamaDelLazo.iml" filepath="$PROJECT_DIR$/Cliente-DamaDelLazo/Cliente-DamaDelLazo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente-Servidor-Elisabetha/Cliente-Servidor-Elisabetha.iml" filepath="$PROJECT_DIR$/Cliente-Servidor-Elisabetha/Cliente-Servidor-Elisabetha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente-Servidor-Lance/Cliente-Servidor-Lance.iml" filepath="$PROJECT_DIR$/Cliente-Servidor-Lance/Cliente-Servidor-Lance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServidorAlacenaPociones/ServidorAlacenaPociones.iml" filepath="$PROJECT_DIR$/ServidorAlacenaPociones/ServidorAlacenaPociones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServidorMercado/ServidorMercado.iml" filepath="$PROJECT_DIR$/ServidorMercado/ServidorMercado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServidorPortonNorte/ServidorPortonNorte.iml" filepath="$PROJECT_DIR$/ServidorPortonNorte/ServidorPortonNorte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServidorTaberna/ServidorTaberna.iml" filepath="$PROJECT_DIR$/ServidorTaberna/ServidorTaberna.iml" />
+    </modules>
+  </component>
+</project>
